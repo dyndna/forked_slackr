@@ -2,6 +2,12 @@
 output: rmarkdown::github_document
 ---
 
+### Copyright: Bob Rudis @hrbrmstr, http://rud.is/b
+
+>Original source: https://github.com/hrbrmstr/slackr
+
+***
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ```{r base, echo = FALSE}
