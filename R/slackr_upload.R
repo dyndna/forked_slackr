@@ -16,7 +16,7 @@
 #' @export
 slackr_upload <- function(filename, title=basename(filename),
                           initial_comment=basename(filename),
-                          channels="", api_token=Sys.getenv("SLACK_API_TOKEN")) {
+                          channels=Sys.getenv("SLACK_CHANNEL"), api_token=Sys.getenv("SLACK_API_TOKEN")) {
 
   f_path <- path.expand(filename)
 
