@@ -19,7 +19,7 @@
 #' slackr_setup()
 #' save_slackr(mtcars, channels="#slackr", file="mtcars")
 #' }
-save_slackr <- function(..., channels="",
+save_slackr <- function(..., channels=Sys.getenv("SLACK_CHANNEL"),
                         file="slackr",
                         api_token=Sys.getenv("SLACK_API_TOKEN")) {
 
