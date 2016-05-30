@@ -1,4 +1,10 @@
 
+### Copyright: Bob Rudis @hrbrmstr, http://rud.is/b
+
+>Original source: https://github.com/hrbrmstr/slackr
+
+***
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 [![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/0.1.0/active.svg)](http://www.repostatus.org/#active) ![downloads](http://cranlogs.r-pkg.org/badges/grand-total/slackr) [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/slackr)](http://cran.r-project.org/package=slackr)
 
